@@ -1,0 +1,5 @@
+heartrate,oxygen,systole,diastole,body_temp,date,time,name,id
+78,95,120,86,37.5,2022-01-24,10:15:00 AM,Bpk. James,2
+79,98,132,76,37.2,2022-01-24,10:16:00 AM,Bpk. Dodit,2
+71,95,122,85,36.3,2022-01-24,10:15:00 AM,Bpk. Adi,2
+78,95,120,86,37.5,2022-01-24,10:17:00 AM,Bpk. Imanuel,2
